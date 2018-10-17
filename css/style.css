@@ -18,3 +18,16 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header{
+    display:flex;
+    justify-content:center;
+}
+.navbar{
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+}
+.social{
+    display:flex;
+    justify-content:flex-start;
+}
